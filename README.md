@@ -1,44 +1,29 @@
-Welcome to my GitHub profile! I'm a data-driven professional with over 8 years of experience spanning education, customer service, and data management. My passion lies in leveraging technology and process improvement to transform data into actionable insights and drive impactful results.
 
-🌟 About Me
+Welcome to My GitHub!
 
-🏫 Currently transitioning from a successful career in education to the exciting world of technology, data analysis, and process optimization.
-💻 Skilled in tools like ServiceNow, MySQL Workbench, Lucidchart, Microsoft Excel, and Google Sheets, with certifications in AWS Cloud Practitioner and ServiceNow.
-⚙️ Experienced in Agile, Scrum, ITIL, and implementing efficient workflows using platforms like Integration Hub.
-🔍 Passionate about creating data visualizations to reveal trends and guide decision-making.
+I’m Lauren Landry, a data-driven professional evolving from a successful career in education to a role in technology, data analysis, and process optimization. With 8+ years of experience, I’m passionate about leveraging tools and insights to drive impactful results.
 
-🚀 Skills
-Technical Proficiencies: ServiceNow, MySQL, Lucidchart, Integration Hub, Agile/Scrum, ITIL, ITSM, 
-Data Management: Database creation, ER diagram design, data tracking, visualization, and trend analysis
-Soft Skills: Strategic communication, problem-solving, process improvement, cross-functional collaboration
+🌟 Highlights
+💻 Technical Skills: ServiceNow, MySQL, Lucidchart, Integration Hub, Agile/Scrum, ITIL, ITSM
+📊 Data Expertise: Database creation, ER diagrams, trend analysis, normalized datasets (3NF), and data visualizations
+🤝 Soft Skills: Communication, problem-solving, process improvement, collaboration
 
 💼 Projects
-🌐 HealthFlow Project - Incident Management System
-Designed a comprehensive ITIL process map and managed the Agile backlog to meet an 8-month project timeline.
-Created knowledge management articles to provide project scope and sprint planning insights.
 
-🌱 Maternity Leave Request Portal
-Configured solutions in ServiceNow Human Resources Service Delivery (HRSD) to enhance employee experiences.
-Streamlined maternity leave processes with Agile methodologies and hands-on ServiceNow implementation.
-
-📊 MySQL & Data Visualization Projects
-Built MySQL databases and created conceptual ER diagrams for library and hospital systems.
-Designed e-commerce data warehouse schemas using Lucidchart and executed SQL queries in MySQL Workbench.
+HealthFlow Incident Management: Designed ITIL process maps, managed Agile backlogs, and created knowledge articles to support sprint planning.
+Maternity Leave Portal: Configured HRSD solutions in ServiceNow, streamlining workflows with Agile methodologies.
+Data Projects: Built MySQL databases, normalized datasets to 3NF, developed ER diagrams, and created e-commerce schemas while running SQL queries in MySQL Workbench.
 
 📚 Certifications
-AWS Certified Cloud Practitioner (2024)
-ServiceNow Project Portfolio Management (PPM) & Performance Analytics (PA) (2024)
-Introduction to Service Management with ITIL 4 (2024)
 
-🎓 Education
-Bachelor of Arts in Psychology - Nicholls State University
+AWS Certified Cloud Practitioner
 
-🌱 Current Focus
-Strengthening skills in ServiceNow, data warehousing, and SQL database management.
+🎯 Current Focus
+Expanding skills in ServiceNow, SQL, and data warehousing.
 
-🤝 Let’s Connect!
-📧 Email: lrlandry2311@gmail.com
+📧 Let’s Connect
+Email: lrlandry2311@gmail.com
 
-💡 Interested in collaboration? Let's transform ideas into solutions together!
+Let’s transform ideas into solutions together! 🌱
 
 Thanks for stopping by! 😊
